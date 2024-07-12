@@ -86,11 +86,13 @@ body,html {
 }
 #tagline {
     font-size:50px;
-    width:60%;
+    width:100%;
+    text-align: center;
 }
 #portfolio {
     width:80%;
     padding:2% 10%;
+    text-align: center;
 }
 #portfolio div h1 {
     font-size:40px;
@@ -112,6 +114,8 @@ body,html {
 #work {
     margin:4vh 0px !important;
     padding:2vh 0px !important;
+    /* width: 100%;
+    text-align: center; */
 }
 #contact {
     margin:4vh 0px !important;
